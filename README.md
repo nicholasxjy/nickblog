@@ -1,14 +1,22 @@
-# This is nick personal simple site
+# This is nick's simple personal site
 
 
 
-# How to start it
+### How to start it
 
-``` npm install ```
+
+
+
+``` npm install ```   
+
 
 ``` npm run dev ```
 
+
 ``` npm run build ```
+
+
+
 
 
 
