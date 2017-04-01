@@ -3,19 +3,19 @@ export default {
     {
       id: 1,
       category: 'photo',
-      url: 'http://7xj610.com1.z0.glb.clouddn.com/92WCDB5VMF.jpg',
+      url: 'http://7xj610.com1.z0.glb.clouddn.com/XT72K3MS5L.jpg',
       intro: '世上只有一种英雄主义，就是在认清生活真相之后依然热爱生活。'
     },
     {
       id: 2,
       category: 'music',
-      url: 'http://7xj610.com1.z0.glb.clouddn.com/AB0U289SNW.jpg',
-      intro: '一个人 终将拥有另一个人 对你点点头 贯彻未来 数遍生命的公路牌'
+      url: 'http://7xj610.com1.z0.glb.clouddn.com/MJO5HX4V34.jpg',
+      intro: '我能有多骄傲，不堪一击好不好，一碰到你我就被撂倒'
     },
     {
       id: 3,
       category: 'video',
-      url: 'http://7xj610.com1.z0.glb.clouddn.com/BAKHR6ABED.jpg',
+      url: 'http://7xj610.com1.z0.glb.clouddn.com/StockSnap_93BIRH8NFG.jpg',
       intro: '欣喜忧愁无从分享 欢笑落泪不能拥抱'
     }
   ],
@@ -114,6 +114,20 @@ export default {
     }
   ],
   musics: [
+    {
+      id: 0,
+      cover: 'http://7xj610.com1.z0.glb.clouddn.com/86861418607103.jpeg',
+      title: 'If',
+      singer: '丁可',
+      src: 'http://7xj610.com1.z0.glb.clouddn.com/%E4%B8%81%E5%8F%AF%20-%20If.mp3'
+    },
+    {
+      id: 7,
+      cover: 'http://7xj610.com1.z0.glb.clouddn.com/93458488373154.jpeg',
+      title: '红色高跟鞋 - ❤️',
+      singer: 'Tanya',
+      src: 'http://7xj610.com1.z0.glb.clouddn.com/only-one.mp3'
+    },
     {
       id: 1,
       cover: 'http://7xj610.com1.z0.glb.clouddn.com/2538772349661931.jpeg',

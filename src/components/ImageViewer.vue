@@ -90,6 +90,7 @@
   top: 30px;
   right: 50px;
   cursor: pointer;
+  z-index: 3000;
   svg {
     width: 30px;
     height: 30px;
