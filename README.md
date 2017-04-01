@@ -1,12 +1,17 @@
-# This is nick personal simple site
+# This is nick's simple personal site
 
 
 
-# How to start it
+### How to start it
+
+
+
 
 ``` npm install ```
 
+
 ``` npm run dev ```
+
 
 ``` npm run build ```
 
@@ -16,6 +21,7 @@
 > 精致的淘气，智性的叛逆
 
 > Scissors cuts paper, Paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, Scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors.
+
 
 
 
